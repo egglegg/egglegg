@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @egglegg
-- 👀 I’m interested in women
-- 🌱 I’m currently learning tax evasion
+student dev + artist
 
 <!---
 egglegg/egglegg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
